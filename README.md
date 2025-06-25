@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @connorfata
 - 👀 I’m like startups, martial arts, coding, and chess
-- 🌱 I’m learning how to code in python (current novice)
 - 💞️ Knowledge is power
 - 📫 How to reach me: fataconnor13@gmail.com
 - ⚡ Fun fact: I've started an apparel brand, launched a podcast interviewing founders & showcasing startups, ran a sub-90 half marathon, taught english in Barcelona, and have a 1300 chess ELO
